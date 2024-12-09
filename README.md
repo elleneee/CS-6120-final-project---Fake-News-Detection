@@ -8,8 +8,10 @@ Main file of the project: [Fake news detection using bert.ipynb](https://github.
 ## File Structure
 ```
 ├── README.md  
-├── Fake news detection using bert.ipynb                     Final code for the project  
 ├── CS6120_NLP_Final_Project.ipynb                           Draft  
+├── Fake news detection using bert.ipynb                     Final code for the project
+├── NLP_Project_Report.pdf                                   Report
+├── NLP_Project_Slides.pdf                                   Slide
 └── Ablation Study                                           Code for ablation study   
     ├── Ablation_study_fully_connect_layer_sigmoid.ipynb     Apply sigmoid function oo fully connect layer     
     ├── Ablation_study_fully_connect_layer_softmax.ipynb     Apply softmax function oo fully connect layer        
